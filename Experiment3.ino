@@ -1,5 +1,4 @@
 // C++ code
-//
 // I2C address scanner program
 #include <Wire.h>
 
