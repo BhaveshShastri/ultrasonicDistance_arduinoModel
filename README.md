@@ -37,3 +37,12 @@ Implement a distance measurement system using Ultrasonic sensors with LED indica
    - The red LED should light up if the object is within 10cm of the IR sensor.
    - The LCD should display the measured distance.
 
+### Installing Arduino IDE
+- **For Windows Users:**
+  - [Download and Install Arduino IDE](https://www.arduino.cc/en/software)
+
+- **For Linux Users:**
+  - Open a terminal.
+  - Run the following command to install Arduino IDE:
+    ```bash
+    yay -S arduino
