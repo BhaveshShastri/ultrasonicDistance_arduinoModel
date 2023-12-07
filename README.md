@@ -1,8 +1,5 @@
 # Ultrasonic Distance Measurement with Arduino and LCD Display
 
-## Aim
-Implement a distance measurement system using Ultrasonic sensors with LED indication and display the measured distance on an LCD.
-
 ## Objectives
 1. Measure the distance using an Ultrasonic sensor.
 2. Display the measured distance on an LCD.
